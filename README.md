@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Vite](https://img.shields.io/badge/vitejs-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%2314354C.svg?style=for-the-badge&logo=vitejs&logoColor=white)
 #### 🖥️ Frameworks
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
