@@ -14,7 +14,6 @@
 ---
 
 - 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
 
 ## 🛠 &nbsp;Tech Stack
 
